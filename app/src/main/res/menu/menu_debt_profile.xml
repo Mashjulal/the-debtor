@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".DebtFragment">
+
+    <item
+        android:id="@+id/menu_debt_profile_action_edit"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:onClick="edit"
+        android:title="Редактировать"
+        app:showAsAction="ifRoom" />
+</menu>

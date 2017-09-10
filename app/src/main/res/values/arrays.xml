@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="notification_time_delays_entries">
+        <item>За день</item>
+        <item>За неделю</item>
+    </string-array>
+
+    <string-array name="notification_time_delays_values">
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+
+    <string-array name="notification_repeat_entries">
+        <item>Утром</item>
+        <item>В обед</item>
+        <item>Вечером</item>
+        <item>Утром и вечером</item>
+    </string-array>
+
+    <string-array name="notification_repeat_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+</resources>

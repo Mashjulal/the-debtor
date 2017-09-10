@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">The Debtor</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="thing_str">Вещь:</string>
+    <string name="thing_name_example">Книга \'Краткая история времени\' С.Хоккинг</string>
+
+    <string name="title_activity_settings">Настройки</string>
+
+    <string name="add_debt">Добавить долг…</string>
+    <string name="debt_type_title">Тип</string>
+    <string name="thing_type_title">Вещь</string>
+    <string name="money_type_title">Сумма</string>
+    <string name="thing_name_title">Название:</string>
+    <string name="enter_thing_name_hint">Введите название…</string>
+    <string name="make_or_show_photo">Сделать/показать фото</string>
+    <string name="money_amount_title">Сумма:</string>
+    <string name="borrow_date_title">Взято:</string>
+    <string name="return_date_title">Вернуть:</string>
+    <string name="no_return_date">Бессрочно</string>
+    <string name="recipient_name_hint">Кому вернуть?</string>
+    <string name="description_hint">Описание</string>
+    <string name="add_title">Добавить</string>
+    <string name="cancel_title">Отмена</string>
+    <string name="iv_description">Фото долга</string>
+    <string name="remove_debt_title">Вернуть</string>
+    <string name="debt_pager_activity_title">Долги</string>
+
+    <string name="notification_text_template">Вернуть %1$s до %2$s.</string>
+    <string name="notification_title_template">Долг: %s</string>
+
+
+    <string name="notification_title">Уведомлять меня</string>
+    <string name="notification_time_delay">Когда</string>
+
+    <string name="return_date">Вернуть:</string>
+    <string name="recipient_title">Кому:</string>
+
+</resources>
